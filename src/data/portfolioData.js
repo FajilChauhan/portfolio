@@ -47,7 +47,7 @@ export const projects = [
     description: "A full-stack real-time cricket tournament management platform with live scoring, tournament operations, scorecards, points tables, and player statistics.",
     image: "/crazycricketlive-preview.png",
     github: "https://github.com/FajilChauhan/CrazyCricketLive",
-    live: "https://crazycricketlive.vercel.app",
+    live: "https://crazycricketlive-q4jb.vercel.app/",
     stack: ["React.js", "TypeScript", "Redux Toolkit", "React Query", "Tailwind CSS", "Node.js", "Express.js", "PostgreSQL", "Redis", "Socket.IO", "JWT", "RBAC"],
     highlights: [
       "Real-time ball-by-ball live scoring using Socket.IO",

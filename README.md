@@ -5,7 +5,7 @@ A professional recruiter-facing developer portfolio for Fajil Chauhan, built wit
 ## Live Projects Featured
 
 - **CrazyCricketLive** - Real-time cricket tournament management platform  
-  Live: https://crazycricketlive.vercel.app  
+  Live: https://crazycricketlive-q4jb.vercel.app/
   GitHub: https://github.com/FajilChauhan/CrazyCricketLive
 
 - **SAFNAM** - Restaurant and hotel management system  
